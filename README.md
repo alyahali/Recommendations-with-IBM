@@ -34,5 +34,4 @@ Matplotlib
 
 
 ## Acknowledgements
-I wish to thank [IBM Watson Studio](https://dataplatform.cloud.ibm.com/login) for dataset, thanks for [GitHub](https://github.com/) for examples, and thanks [Udacity](https://www.udacity.com/) for 
-advice and review.
+I wish to thank [IBM Watson Studio](https://dataplatform.cloud.ibm.com/login) for dataset, thanks for [GitHub](https://github.com/) for examples, and thanks [Udacity](https://www.udacity.com/) for advice and review.
