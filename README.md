@@ -6,8 +6,8 @@ In this project I will analyze the interactions that users have with articles on
 
 # Project Files:
 - [Recommendations_with_IBM.ipynb](https://github.com/alyahali/Recommendations-with-IBM/blob/master/Recommendations_with_IBM.ipynb) - provides a complete walkthrough of the tasks as Jupyter Notebook
-- Recommendations_with_IBM.html - provides a complete walkthrough of the tasks as html version Notebook
-- data folder - contains two files:
+- [Recommendations_with_IBM.html](https://github.com/alyahali/Recommendations-with-IBM/blob/master/Recommendations_with_IBM.html) - provides a complete walkthrough of the tasks as html version 
+- [data folder](https://github.com/alyahali/Recommendations-with-IBM/tree/master/data) - contains two files:
     - articles_community.csv - contains article descriptions and details.
     - user-item-interactions.csv - contains the interaction details of users and articles.
     
