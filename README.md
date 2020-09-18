@@ -27,10 +27,10 @@ Using our decomposition, we will get an idea of how well we can predict new arti
 We will finally discuss which methods we might use moving forward, and how we might test whether our recommendations are working for engaging users or not.
 
 # Prerequisites:
-Python versions 3.0+
-pandas 0.23.4
-numpy 1.15.4
-Matplotlib
+- Python versions 3.0+
+- pandas 0.23.4
+- numpy 1.15.4
+- Matplotlib
 
 
 ## Acknowledgements
