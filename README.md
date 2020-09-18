@@ -5,7 +5,7 @@ This project is part of Udacity Data Scientists Nano degree program.
 In this project I will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they might like. 
 
 # Project Files:
-- Recommendations_with_IBM.ipynb - provides a complete walkthrough of the tasks as Jupyter Notebook
+- [Recommendations_with_IBM.ipynb](https://github.com/alyahali/Recommendations-with-IBM/blob/master/Recommendations_with_IBM.ipynb) - provides a complete walkthrough of the tasks as Jupyter Notebook
 - Recommendations_with_IBM.html - provides a complete walkthrough of the tasks as html version Notebook
 - data folder - contains two files:
     - articles_community.csv - contains article descriptions and details.
